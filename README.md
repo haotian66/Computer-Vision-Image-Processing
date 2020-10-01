@@ -1,2 +1,2 @@
 # Computer-Vision-Image-Processing
-Codes related to cv&ip
+Several codes of computer vision & image processing algorithms
